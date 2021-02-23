@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:11:48 On 24/09/2020
+
+Output: Gerber Files_USB_UART Converter
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Converter_PCB.PcbDoc]
+   Generated File[Converter_PCB.GTO]
+   Generated File[Converter_PCB.GTP]
+   Generated File[Converter_PCB.GTS]
+   Generated File[Converter_PCB.GTL]
+   Generated File[Converter_PCB.GBL]
+   Generated File[Converter_PCB.GBS]
+   Generated File[Converter_PCB.GBO]
+   Generated File[Converter_PCB.GM3]
+   Generated File[Converter_PCB.RUL]
+   Generated File[Converter_PCB.EXTREP]
+   Generated File[Converter_PCB.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 16:11:50 On 24/09/2020

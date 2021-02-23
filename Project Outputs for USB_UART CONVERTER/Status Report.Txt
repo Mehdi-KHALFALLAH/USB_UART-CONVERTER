@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:03:47 On 24/09/2020
+
+Output: Bill of Materials_USB UART converter
+Type  : BOM
+From  : Variant [[No Variations]] of Project [USB_UART CONVERTER.PrjPcb]
+   Generated File[Bill of Materials_USB UART converter-USB_UART CONVERTER.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:03:54 On 24/09/2020

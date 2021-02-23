@@ -1,0 +1,48 @@
+Added Pin To Net: NetName=Net.Designator_3 Pin=.Designator-3
+Added Pin To Net: NetName=Net.Designator_4 Pin=.Designator-4
+Added Pin To Net: NetName=Net.Designator_5 Pin=.Designator-5
+Added Pin To Net: NetName=VCC Pin=.Designator-6
+Added Pin To Net: NetName=+5V Pin=.Designator-7
+Added Pin To Net: NetName=+5V Pin=.Designator-8
+Added Pin To Net: NetName=Net.Designator_9 Pin=.Designator-9
+Added Pin To Net: NetName=Net.Designator_11 Pin=.Designator-11
+Added Pin To Net: NetName=Net.Designator_25 Pin=.Designator-25
+Added Pin To Net: NetName=Net.Designator_26 Pin=.Designator-26
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=Net.Designator_3 Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=Net.Designator_3 Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C3-1
+Added Pin To Net: NetName=Net.Designator_3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=Net.Designator_25 Pin=J2-3
+Added Pin To Net: NetName=Net.Designator_26 Pin=J2-4
+Added Pin To Net: NetName=VCC Pin=J2-5
+Added Pin To Net: NetName=Net.Designator_26 Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=Net.Designator_25 Pin=L2-1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL1_2 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetL2_2 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=Net.Designator_9 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=Net.Designator_11 Pin=R4-2
+Added Member To Class: ClassName=Converter_shematic Member=Component .Designator CP2102
+Added Member To Class: ClassName=Converter_shematic Member=Component C1 Cap_1uF
+Added Member To Class: ClassName=Converter_shematic Member=Component C2 Cap_47uF_0805
+Added Member To Class: ClassName=Converter_shematic Member=Component C3 Cap_1uF
+Added Member To Class: ClassName=Converter_shematic Member=Component C4 Cap_47uF_0805
+Added Member To Class: ClassName=Converter_shematic Member=Component J2 Header_5x1_2.54mm
+Added Member To Class: ClassName=Converter_shematic Member=Component L1 LED
+Added Member To Class: ClassName=Converter_shematic Member=Component L2 LED
+Added Member To Class: ClassName=Converter_shematic Member=Component R1 300R resistor
+Added Member To Class: ClassName=Converter_shematic Member=Component R2 300R resistor
+Added Member To Class: ClassName=Converter_shematic Member=Component R3 5K resistor
+Added Member To Class: ClassName=Converter_shematic Member=Component R4 5K resistor
+Added Room: Name=Converter_shematic
